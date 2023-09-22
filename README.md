@@ -10,6 +10,7 @@ Tech Stack
 - MSSQL
 - Entity Framework 7
 - REST API
+- xUnit
 
 ## Authors
 
@@ -21,3 +22,4 @@ Tech Stack
 - SOLID
 - Clean Code
 - Dependency Injection
+- Unit Tests
